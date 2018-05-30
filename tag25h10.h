@@ -41,7 +41,7 @@ extern "C" {
 #endif
 
 apriltag_family_t *tag25h10_create();
-void tag25h410destroy(apriltag_family_t *tf);
+void tag25h10destroy(apriltag_family_t *tf);
 
 #ifdef __cplusplus
 }
